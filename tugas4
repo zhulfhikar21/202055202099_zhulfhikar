@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tugas-4</title>
+  </head>
+  <body>
+    <h1>Tugas Ke-4</h1>
+    <h5>Nama Lengkap : Zulfikar</h5>
+    <h5>NIM : 202055202099</h5>
+
+    <hr>
+
+    <a href="https://www.instagram.com/p/CesfumuLE5i/?hl=id">
+    <img src="Owners.JPG" height="480px" width="750px" alt="Owners">
+    </a>
+
+    <h5>Deskripsi : </h5>
+
+    <h5>
+        Owners Worldwide adalah salah satu merek pakaian lokal yang berasal dari Bandung, Jawa Barat. Brand ini sudah ada di dunia fashion street wear sejak tahun 2012. 
+    </h5>
+
+  </body>
+</html>
